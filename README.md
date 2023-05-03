@@ -10,11 +10,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" height="50"/>&nbsp;
 <img src="https://github.com/StephaneBertrand34/Python_-_Etude_de_marche_pour_l_exportation_de_volailles/blob/main/img/pandas.jpg" title="Pandas"  alt="Pandas" height="50" fill="white"/>&nbsp;
 <img src="https://github.com/StephaneBertrand34/Python_-_Etude_de_marche_pour_l_exportation_de_volailles/blob/main/img/numpy.png" title="Numpy"  alt="Numpy" height="50"/>&nbsp;
-<img src="https://github.com/StephaneBertrand34/Python_-_Etude_de_marche_pour_l_exportation_de_volailles/blob/main/img/scikit-learn.jpg" title="ScikitLearn"  alt="ScikitLearn" height="50"/>&nbsp;
+<img src="https://github.com/StephaneBertrand34/Python_-_Etude_de_marche_pour_l_exportation_de_volailles/blob/main/img/scikitlearn.png" title="ScikitLearn"  alt="ScikitLearn" height="50"/>&nbsp;
 <img src="https://github.com/StephaneBertrand34/Python_-_Etude_de_marche_pour_l_exportation_de_volailles/blob/main/img/scipy-logo.jpg" title="Scipy"  alt="Scipy" height="50"/>&nbsp;
 <img src="https://github.com/StephaneBertrand34/Python_-_Etude_de_marche_pour_l_exportation_de_volailles/blob/main/img/matplotlib.jpg" title="Matplotlib"  alt="Matplotlib" height="50"/>
 <img src="https://github.com/StephaneBertrand34/Python_-_Etude_de_marche_pour_l_exportation_de_volailles/blob/main/img/Seaborn.jpg" title="Seaborn"  alt="Seaborn" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" height="50"/>
 
 <br>
 

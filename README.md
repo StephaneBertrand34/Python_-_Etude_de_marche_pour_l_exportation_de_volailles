@@ -19,7 +19,7 @@
 <br>
 
 ## Mise en situation
-Vous travaillez chez "La poule qui chante", une entreprise française d'agroalimentaire qui souhaite se développer à l'international.   
+Vous travaillez chez "La Poule Qui Chante", une entreprise française d'agroalimentaire qui souhaite se développer à l'international.   
 Votre objectif sera de proposer une première analyse des groupements de pays à cibler pour exporter leurs poulets.   
 Vous aurez une totale liberté quant au choix des données et des indicateurs que vous utiliserez.
 

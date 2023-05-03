@@ -26,7 +26,7 @@ Vous aurez une totale liberté quant au choix des données et des indicateurs qu
 <br>
 
 ## Notebook Jupyter
-<a href="" target="_blank" title="Notebook.ipynb">Notebook.ipynb</a>
+<a href="https://github.com/StephaneBertrand34/Python_-_Etude_de_marche_pour_l_exportation_de_volailles/blob/main/P9.ipynb" target="_blank" title="Notebook.ipynb">Notebook.ipynb</a>
 
 ## Support de présentation du projet
-<a href="" target="_blank" title="Présentation.pdf">Présentation.pdf</a>
+<a href="https://github.com/StephaneBertrand34/Python_-_Etude_de_marche_pour_l_exportation_de_volailles/blob/main/Bertrand_St%C3%A9phane_3_pr%C3%A9sentation_062022.pdf" target="_blank" title="Présentation.pdf">Présentation.pdf</a>

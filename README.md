@@ -1,5 +1,6 @@
 # Etude de marché pour l'exportation de volailles
----
+
+<br>
 
 ## Compétences acquises à l'issue du projet
 * Explorer des données pour synthétiser des variables (Analyse en Composantes Principales)
